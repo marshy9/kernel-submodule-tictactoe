@@ -1,0 +1,36 @@
+CMSC 421 Project 2 - Part 1 Grade
+Graded on a scale 0 - 100%. Counts for 40% of Project 2 Grade
+
+Student: marsh9@umbc.edu
+GitHub Username: marsh9umbc
+
+Device Driver
+    - Registers a device driver                 :  10/10
+    - Sets up permissions to the device file    :  15/15
+    - Cleans up on driver unload                :  15/10
+-------------------------------------------------
+Tic-Tac-Toe
+    - Create a new game                         :   5/5
+    - Returning the board state                 :   5/5
+    - Performing Player moves                   :  10/10
+    - Performing CPU moves                      :  10/10
+    - Error handling                            :  10/10
+-------------------------------------------------
+General
+    - Validates userspace input                 :  15/15
+    - Implements locking                        :   0/10
+-------------------------------------------------
+Extra Credit
+    - AI Implementation                         :
+    - Multiple games per device driver          :
+    - Multiple players per game                 : 
+-------------------------------------------------
+Core Grade                                      : 90/100
+Late penalty                                    :
+Misc penalty, if applicable                     :
+-------------------------------------------------
+Final project 2 - part 1 grade                  : 100/100
+
+Comments from the TA:
+---------------------
+No locking implemented
